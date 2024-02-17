@@ -1,0 +1,20 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 10 0px;
+    background-color: rgba(204, 204, 204, 0.513);
+    margin-bottom: 20px;
+}
+
+.header button {
+    margin: 0 10px;
+    border: none;
+    padding: 3px;
+    border-radius: 5px;
+}
